@@ -45,13 +45,14 @@ hr {
     padding: 5px;
     margin: 5px;
 }
-a i:hover {
-    transform: scale(1.5);
+#card-container a:hover{
+    font-size: 20px;
 }
 
 .facebook {
     background: rgb(60, 80, 255);
     color: white;
+    border-radius: 500px;
 }
 
 .linkedin {
